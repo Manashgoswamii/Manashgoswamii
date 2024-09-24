@@ -1,4 +1,4 @@
-![logo](Manash Programmer.png)
+![logo](https://github.com/Manashgoswamii/Manashgoswamii/blob/main/Manash%20Programmer.png)
 <h1 align="center">Hi 👋, I'm Manash Pratim Goswami</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
