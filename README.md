@@ -1,4 +1,4 @@
-![logo]()
+![logo](Manash Programmer.png)
 <h1 align="center">Hi 👋, I'm Manash Pratim Goswami</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
